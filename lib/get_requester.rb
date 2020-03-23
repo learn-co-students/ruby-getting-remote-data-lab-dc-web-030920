@@ -22,5 +22,3 @@ require 'net/http'
 
 end
 
-# programs = GetPrograms.new
-# puts programs.program_school.uniq
